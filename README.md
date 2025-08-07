@@ -1,4 +1,4 @@
-## COdeSight 
+## CodeSight 
 Tech Stack: React, Vite, Streamlit, Python, Gemini Pro API (Google AI), Git
 Description:
 Built a full-stack AI-powered tool that reviews source code using Google’s Gemini Pro API, offering intelligent feedback and optimization suggestions across multiple programming languages.
